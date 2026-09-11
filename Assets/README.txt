@@ -33,13 +33,9 @@ that I find helpful.
 	○ How do we code C# Events?
 	○ Creating a block that we can move by using input
 
-P.S. While coding these PLEASE PLEASE refrain from using 
-ChatGPT / Looking it up. As I want you to learn these skills NOT
-learn how to look them up.
-
-P.P.S. Also ChatGPT seriously struggles writing non-buggy C# 
-Unity code. I would suggest attempting to look it up on the Unity
-forums, Youtube, Stackoverflow, elsewhere before you use ChatGPT.
+P.S. While coding these please refrain from using ChatGPT / 
+Looking it up. As I want you to learn these skills NOT learn 
+how to look them up.
 
 |~._~.~._~.~._~.~._~.~._~.~._~.~._~.~._~.~._~.~._~.~._~.~._~.~._|
 |                     Some closing thoughts                     |
@@ -50,18 +46,12 @@ things for the future of the project and discuss how we can
 implement it.
 
 	Some things to think about for later. For this semester we 
-are mostly going to be refactoring the code as it has grown
-difficult to use. I beleive converting things to the Event
-system will help with ease of use but also here are some things
-to think about?
+are going to be attempting to ship an actual build of the game.
+So, you are going to need to have knowledge of some of the
+general code architecture of the project in order to add onto 
+it.
 
 • What's are code summary for a file going to look like?
-• What C# style guide are we going to use?
-	○ Windows
-	○ Googles
-	○ Are own custom variation (it seems crazy but we might want
-	  to have different conventions sense we are using this in
-	  Unity after all)
 • Lastly and most importantly how do you want to shape the game?
 	○ What modifications do you think we should try to make it
 	  more fun?
